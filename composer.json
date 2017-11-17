@@ -1,0 +1,12 @@
+{
+    "require": {
+        "components/bootstrap": "4.0.0-beta",
+        "components/jquery": "^3.2",
+        "components/font-awesome": "^4.7",
+        "robloach/component-installer": "^0.2.3",
+        "danrovito/pokephp": "^1.3"
+    },
+    "config": {
+        "component-dir": "public/components"
+    }
+}
